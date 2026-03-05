@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "PageTalk",
   "version": "1.0.0",
-  "description": "Discuss any webpage with other readers. PageTalk attaches a Reddit-style comment thread to every URL so you can share thoughts, reactions, and links with anyone visiting the same page.",
+  "description": "Reddit-style discussion threads for any webpage. Comment, vote, and reply with other readers - all indexed by URL.",
   "minimum_chrome_version": "114",
   "permissions": ["activeTab", "storage"],
   "action": {
